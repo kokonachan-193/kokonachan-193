@@ -38,7 +38,7 @@
 
 ### 📫 Reach Me
 依頼や相談（プラグイン制作、サーバー管理等）は、discordからお気軽にどうぞ！
-「趣味も思考も少し個性的ですが、確かな技術を提供します。」
+「趣味も思考も少し可笑しいですが、最低限の技術を提供します。」
 
 ---
 *“Innovation distinguishes between a leader and a follower.”*
