@@ -8,10 +8,7 @@
     学生エンジニア | バックエンド | AI開発 | マイクラシステム設計
   </p>
   
-<a href="https://kn.kokonachan.com/">
-  <img src="https://shields.io" alt="Website Status" />
-</a>
-
+<a href="https://kn.kokonachan.com/"><img src="https://shields.io" alt="Website Status" /></a>
   <a href="https://x.com/kokona1172271"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/%E5%A4%8F-%E5%BF%83-674032407/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCJmfF6zw57rRv-FYW0SU7Vw"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
